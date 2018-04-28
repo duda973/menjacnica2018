@@ -15,7 +15,7 @@ public class MenjacnicaTableModel extends AbstractTableModel {
 
 	public MenjacnicaTableModel() {
 	}
-
+	
 	@Override
 	public int getColumnCount() {
 		return kolone.length;
